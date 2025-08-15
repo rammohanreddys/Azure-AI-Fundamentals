@@ -56,3 +56,11 @@ In simple terms, AI is about teaching computers to “think” and “learn” l
 - **Computer Vision:** It refers to the AI's ability to interpret visual data. It has been a leading factor for the advancement of facial recognition, autonomous vehicles, and medical diagnostics. Computer vision is transforming how businesses make use of visual information - from identifying diseases in medical scans to aiding retail and security applications.
   
 - **Expert Systems:** Expert systems are AI applications that mimic the decision-making potential of human professionals in different domains. They use understanding bases and inference engines to clear up complicated issues by applying regulations and heuristics derived from human know-how. Expert systems were used in medical analysis, financial planning, and danger evaluation.
+
+## What is an ML Model ?
+
+An ML model (Machine Learning model) is a program or mathematical representation that has been trained to recognize patterns, make predictions, or take decisions based on data — without being explicitly programmed for every rule.
+
+<p align="center">
+  <img src="images/ai-8.JPG" alt="Description of my awesome image" width="600">
+</p>
