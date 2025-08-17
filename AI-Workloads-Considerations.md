@@ -8,3 +8,9 @@
 4. Inclusiveness
 5. Transparency
 6. Accountability
+
+**Important Links:**
+
+https://learn.microsoft.com/en-us/azure/ai-services/responsible-use-of-ai-overview
+https://www.microsoft.com/en-us/ai/responsible-ai
+https://www.microsoft.com/en-us/research/wp-content/uploads/2019/04/AI-Design-guidelines_041519.pdf
