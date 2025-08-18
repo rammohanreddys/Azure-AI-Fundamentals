@@ -202,3 +202,9 @@ Now that you have foundational understanding of AI, consider reviewing the follo
 * To try Microsoft Copilot for yourself, go to https://copilot.microsoft.com.
 * To learn more about Microsoft AI solutions, see the [Microsoft AI page.](https://www.microsoft.com/en-in/ai)
 * To learn more about Microsoft's approach to responsible AI, see the [Microsoft responsible AI page.](https://www.microsoft.com/en-in/ai/responsible-ai)
+
+**Important Links:**
+
+* https://learn.microsoft.com/en-us/azure/ai-services/responsible-use-of-ai-overview
+* https://www.microsoft.com/en-us/ai/responsible-ai
+* https://www.microsoft.com/en-us/research/wp-content/uploads/2019/04/AI-Design-guidelines_041519.pdf
