@@ -66,16 +66,26 @@ An ML model (Machine Learning model) is a program or mathematical representation
   <img src="images/ai-8.JPG" alt="Description of my awesome image" width="600">
 </p>
 
-# Generative AI:
+# Introduction to AI Concepts:
 
-## Key points to understand about generative AI include:
+1. Introduction to AI
+2. Generative AI
+3. Computer Vision
+4. Speech
+5. Natural Language Processing
+6. Extract Data & Insights
+7. Responsible AI
+
+## Generative AI:
+
+### Key points to understand about generative AI include:
 
 * **Generative AI** is a branch of AI that enables software applications to generate new content; often natural language dialogs, but also images, video, code, and other formats.
 * The ability to generate content is based on a language model, which has been trained with huge volumes of data - often documents from the Internet or other public sources of information.
 * Generative AI models encapsulate semantic relationships between language elements (that's a fancy way of saying that the models "know" how words relate to one another), and that's what enables them to generate a meaningful sequence of text.
 * There are large language models (LLMs) and small language models (SLMs) - the difference is based on the volume of data and the number of variables in the model. LLMs are very powerful and generalize well, but can be more costly to train and use. SLMs tend to work well in scenarios that are more focused on specific topic areas, and usually cost less.
 
-### **Generative AI scenarios**
+#### **Generative AI scenarios**
 
 Common uses of generative AI include:
 
@@ -84,9 +94,9 @@ Common uses of generative AI include:
 * Automated translation of text between languages.
 * Summarizing or explaining complex documents.
 
-# Computer Vision
+## Computer Vision
 
-## **Key points to understand about computer vision include:**
+### **Key points to understand about computer vision include:**
 
 * **Computer vision** is accomplished by using large numbers of images to train a model.
 
@@ -108,9 +118,9 @@ Common uses of computer vision include:
 * Authentication through facial recognition.
 * Robotics and self-driving vehicles.
 
-# Speech:
+## Speech:
 
-## Key points to understand about speech include:
+### Key points to understand about speech include:
 
 * **Speech recognition** is the ability of AI to "hear" and interpret speech. Usually this capability takes the form of speech-to-text (where the audio signal for the speech is transcribed into text).
 
@@ -149,9 +159,9 @@ Common uses of NLP technologies include:
 * Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
 * Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
 
-# Extract data and insights
+## Extract data and insights
 
-## Key points to understand about using AI to extract data and insights include:
+### Key points to understand about using AI to extract data and insights include:
 
 * The basis for most document analysis solutions is a computer vision technology called optical character recognition (OCR).
 
@@ -168,11 +178,11 @@ Common uses of AI to extract data and insights include:
 * Indexing documents for search.
 * Identifying key points and follow-up actions from meeting transcripts or recordings.
 
-# Resposible AI
+## Resposible AI
 
 <img width="1045" height="516" alt="image" src="https://github.com/user-attachments/assets/77e887ce-19f7-444b-8837-d92d341cc874" />
 
-## Key points to understand about responsible AI include:
+### Key points to understand about responsible AI include:
 
 * **Fairness:** AI models are trained using data, which is generally sourced and selected by humans. There's substantial risk that the data selection criteria, or the data itself reflects unconscious bias that may cause a model to produce discriminatory outputs. AI developers need to take care to minimize bias in training data and test AI systems for fairness.
 
