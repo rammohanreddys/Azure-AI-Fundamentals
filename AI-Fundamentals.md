@@ -126,3 +126,25 @@ Common uses of AI speech technologies include:
 * Automated transcription of calls or meetings.
 * Automating audio descriptions of video or text.
 * Automated speech translation between languages.
+
+# Natual Language Processing (NLP)
+
+## Key points to understand about natural language processing (NLP) include:
+
+* NLP capabilities are based on models that are trained to do particular types of text analysis.
+
+* While many natural language processing scenarios are handled by generative AI models today, there are many common text analytics use cases where simpler NLP language models can be more cost-effective.
+
+* Common NLP tasks include:
+  * **Entity extraction** - identifying mentions of entities like people, places, organizations in a document
+  * **Text classification** - assigning document to a specific category.
+  * **Sentiment analysis** - determining whether a body of text is positive, negative, or neutral and inferring opinions.
+  * **Language detection** - identifying the language in which text is written.
+
+### Natural language processing scenarios
+
+Common uses of NLP technologies include:
+
+* Analyzing document or transcripts of calls and meetings to determine key subjects and identify specific mentions of people, places, organizations, products, or other entities.
+* Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
+* Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
