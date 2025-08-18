@@ -194,3 +194,11 @@ Responsible AI examples
 * A facial identification system used in an airport or other secure area should delete personal images that are used for temporary access as soon as they're no longer required. Additionally, safeguards should prevent the images being made accessible to operators or users who have no need to view them.
 * A web-based chatbot that offers speech-based interaction should also generate text captions to avoid making the system unusable for users with a hearing impairment.
 * A bank that uses an AI-based loan-approval application should disclose the use of AI, and describe features of the data on which it was trained (without revealing confidential information).
+
+**Resources**
+
+Now that you have foundational understanding of AI, consider reviewing the following resources.
+
+* To try Microsoft Copilot for yourself, go to https://copilot.microsoft.com.
+* To learn more about Microsoft AI solutions, see the [Microsoft AI page.](https://www.microsoft.com/en-in/ai)
+* To learn more about Microsoft's approach to responsible AI, see the [Microsoft responsible AI page.](https://www.microsoft.com/en-in/ai/responsible-ai)
