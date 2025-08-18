@@ -1,3 +1,4 @@
+
 ## **What is AI ?**
 
 AI stands for Artificial Intelligence — a branch of computer science focused on creating machines or software that can perform tasks that normally require human intelligence.
@@ -64,3 +65,45 @@ An ML model (Machine Learning model) is a program or mathematical representation
 <p align="center">
   <img src="images/ai-8.JPG" alt="Description of my awesome image" width="600">
 </p>
+
+# Generative AI:
+
+## Key points to understand about generative AI include:
+
+* **Generative AI** is a branch of AI that enables software applications to generate new content; often natural language dialogs, but also images, video, code, and other formats.
+* The ability to generate content is based on a language model, which has been trained with huge volumes of data - often documents from the Internet or other public sources of information.
+* Generative AI models encapsulate semantic relationships between language elements (that's a fancy way of saying that the models "know" how words relate to one another), and that's what enables them to generate a meaningful sequence of text.
+* There are large language models (LLMs) and small language models (SLMs) - the difference is based on the volume of data and the number of variables in the model. LLMs are very powerful and generalize well, but can be more costly to train and use. SLMs tend to work well in scenarios that are more focused on specific topic areas, and usually cost less.
+
+### **Generative AI scenarios**
+
+Common uses of generative AI include:
+
+* Implementing chatbots and AI agents that assist human users.
+* Creating new documents or other content (often as a starting point for further iterative development)
+* Automated translation of text between languages.
+* Summarizing or explaining complex documents.
+
+# Computer Vision
+
+## **Key points to understand about computer vision include:**
+
+* **Computer vision** is accomplished by using large numbers of images to train a model.
+
+* **Image classification** is a form of computer vision in which a model is trained with images that are labeled with the main subject of the image (in other words, what it's an image of) so that it can analyze unlabeled images and predict the most appropriate label - identifying the subject of the image.
+
+* **Object detection** is a form of computer vision in which the model is trained to identify the location of specific objects in an image.
+There are more advanced forms of computer vision - for example, semantic segmentation is an advanced form of object detection where, rather than indicate an object's location by drawing a box around it, the model can identify the individual pixels in the image that belong to a particular object.
+
+* You can combine computer vision and language models to create a multi-modal model that combines computer vision and generative AI capabilities.
+
+### **Computer vision scenarios**
+
+Common uses of computer vision include:
+
+* Auto-captioning or tag-generation for photographs.
+* Visual search.
+* Monitoring stock levels or identifying items for checkout in retail scenarios.
+* Security video monitoring.
+* Authentication through facial recognition.
+* Robotics and self-driving vehicles.
