@@ -148,3 +148,22 @@ Common uses of NLP technologies include:
 * Analyzing document or transcripts of calls and meetings to determine key subjects and identify specific mentions of people, places, organizations, products, or other entities.
 * Analyzing social media posts, product reviews, or articles to evaluate sentiment and opinion.
 * Implementing chatbots that can answer frequently asked questions or orchestrate predictable conversational dialogs that don't require the complexity of generative AI.
+
+# Extract data and insights
+
+## Key points to understand about using AI to extract data and insights include:
+
+* The basis for most document analysis solutions is a computer vision technology called optical character recognition (OCR).
+
+* While an OCR model can identify the location of text in an image, more advanced models can also interpret individual values in the document - and so extract specific fields.
+  
+* While most data extraction models have historically focused on extracting fields from text-based forms, more advanced models that can extract information from audio recording, images, and videos are becoming more readily available.
+
+### Data and insight extraction scenarios
+
+Common uses of AI to extract data and insights include:
+
+* Automated processing of forms and other documents in a business process - for example, processing an expense claim.
+* Large-scale digitization of data from paper forms. For example, scanning and archiving census records.
+* Indexing documents for search.
+* Identifying key points and follow-up actions from meeting transcripts or recordings.
