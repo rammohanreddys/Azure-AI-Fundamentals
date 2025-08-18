@@ -78,3 +78,30 @@
   - Describe features and capabilities of Azure AI Foundry
   - Describe features and capabilities of Azure OpenAI service
   - Describe features and capabilities of Azure AI Foundry model catalog
+  
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Introduction to AI Concepts:
+
+1. Introduction to AI
+2. Generative AI
+3. Computer Vision
+4. Speech
+5. Natural Language Processing
+6. Extract Data & Insights
+7. Responsible AI
+
+### Key points to understand about generative AI include:
+
+* **Generative AI** is a branch of AI that enables software applications to generate new content; often natural language dialogs, but also images, video, code, and other formats.
+* The ability to generate content is based on a language model, which has been trained with huge volumes of data - often documents from the Internet or other public sources of information.
+* Generative AI models encapsulate semantic relationships between language elements (that's a fancy way of saying that the models "know" how words relate to one another), and that's what enables them to generate a meaningful sequence of text.
+* There are large language models (LLMs) and small language models (SLMs) - the difference is based on the volume of data and the number of variables in the model. LLMs are very powerful and generalize well, but can be more costly to train and use. SLMs tend to work well in scenarios that are more focused on specific topic areas, and usually cost less.
+
+**Generative AI scenarios**
+
+Common uses of generative AI include:
+
+* Implementing chatbots and AI agents that assist human users.
+* Creating new documents or other content (often as a starting point for further iterative development)
+* Automated translation of text between languages.
+* Summarizing or explaining complex documents.
