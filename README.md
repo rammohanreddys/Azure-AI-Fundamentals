@@ -84,3 +84,7 @@
 * Creating new documents or other content (often as a starting point for further iterative development)
 * Automated translation of text between languages.
 * Summarizing or explaining complex documents.
+
+**Note:**
+* https://esi.microsoft.com/landing
+* https://learn.microsoft.com/en-us/training/course-videos-on-shows?wt.mc_id=esi_coursevideos_video_wwl&context=sso&source=esi&tabs=copilotadministrator%2Cazureaiengineer%2Ccybersecurityarchitect%2Cazureinfraadministrator%2Cazureappdeveloper
