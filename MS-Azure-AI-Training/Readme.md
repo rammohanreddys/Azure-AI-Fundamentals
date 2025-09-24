@@ -92,3 +92,7 @@ Azure Machine Learning (Azure ML) is a cloud-based platform for building, traini
 * **Monitor:** Inference latency, failure rate, drift detection.
 * **Manage versions:** Models, datasets, pipelines.
 * **Audit and governance:** Track lineage and access control.
+
+### AI services in Microsoft Azure: 
+
+<img width="620" height="168" alt="image" src="https://github.com/user-attachments/assets/8e81ab09-2551-4f41-be98-7e4b8ab49c62" />
