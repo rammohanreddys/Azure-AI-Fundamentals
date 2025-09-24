@@ -96,3 +96,10 @@ Azure Machine Learning (Azure ML) is a cloud-based platform for building, traini
 ### AI services in Microsoft Azure: 
 
 <img width="620" height="168" alt="image" src="https://github.com/user-attachments/assets/8e81ab09-2551-4f41-be98-7e4b8ab49c62" />
+
+### Azure AI Services:
+
+<img width="609" height="234" alt="image" src="https://github.com/user-attachments/assets/b2af4b71-370d-448f-b79b-323e22fe5610" />
+
+<img width="891" height="334" alt="image" src="https://github.com/user-attachments/assets/01ac9c53-7523-4b77-b5f7-36f5c2064804" />
+
