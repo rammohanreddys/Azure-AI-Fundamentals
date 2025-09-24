@@ -8,13 +8,17 @@
 
 ## Fundamentals of AI Concepts:
 
-<img width="629" height="302" alt="image" src="https://github.com/user-attachments/assets/d95bc6d4-cf43-45ad-9391-1613234d8ae4" />
+### Common AI workloads:
 
-<img width="634" height="296" alt="image" src="https://github.com/user-attachments/assets/4edaa8b7-e44b-4f77-b5d7-4009161a959c" />
+<img width="872" height="338" alt="image" src="https://github.com/user-attachments/assets/015f7b2d-bbac-4864-95c1-e42912ed92b7" />
 
-<img width="626" height="305" alt="image" src="https://github.com/user-attachments/assets/25cea45b-51f2-4a24-95f1-2a928a5233e3" />
+### Principles of Responsible AI:
 
-<img width="625" height="301" alt="image" src="https://github.com/user-attachments/assets/ed31c071-5eb5-4b04-bbd3-e4d3ff89277d" />
+<img width="791" height="334" alt="image" src="https://github.com/user-attachments/assets/ee266a9f-0821-42b0-b406-4b9472832f7d" />
+
+### Types of Machine Learning:
+
+<img width="742" height="338" alt="image" src="https://github.com/user-attachments/assets/ef7ac4ff-2e91-45bb-89df-061b2dd122d7" />
 
 <img width="937" height="400" alt="image" src="https://github.com/user-attachments/assets/3f6655c6-0100-4652-afdb-af8f156666cc" />
 
