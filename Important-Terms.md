@@ -50,5 +50,9 @@ Three values are returned by the language detection feature of the Azure AI Lang
 
 The Universal Language Model used by the speech-to-text API is optimized for **conversational** and **dictation scenarios**. The acoustic, language, and pronunciation scenarios require developing your own model.
 
+Three features are elements of the Azure AI Speech service - **Language Identification**, **Speaker Recognisation**, **Voice Assistants**.
+
+**Model training with a dictionary** feature of the Azure AI Translator service is available only to Custom Translator.
+
 
 
