@@ -29,3 +29,10 @@ Create a Pipeline -> Add dataset -> train module -> deploy service
   * **Object Detection:** Object detection provides the ability to generate bounding boxes identifying the locations of different types of vehicles in an image.
   * **Semantic Segmentation:** Semantic segmentation provides the ability to classify individual pixels in an image.
     
+**Azure AI Vision:**
+
+**Azure AI Custom Vision:** Azure AI Custom Vision is an image recognition service that allows you to build and deploy your own image models.
+
+**Azure AI Face:**
+
+**Azure AI Language:**
