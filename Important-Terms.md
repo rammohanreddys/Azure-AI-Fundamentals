@@ -3,12 +3,12 @@
 Data Groundings:
 Embeddings:
 
-hierarchical clustering:
-logistic regression:
-linear regression:
-multiple linear regression:
+**Hierarchical clustering:** Hierarchical clustering groups data points that have similar characteristics.
 
-Multiple linear regression models a relationship between two or more features and a single label. 
-Linear regression uses a single feature. 
-Logistic regression is a type of classification model, which returns either a Boolean value or a categorical decision. 
-Hierarchical clustering groups data points that have similar characteristics.
+**Logistic regression:**  Logistic regression is a type of classification model, which returns either a Boolean value or a categorical decision.
+
+**Linear regression:** Linear regression uses a single feature.
+
+**Multiple linear regression:** Multiple linear regression models a relationship between two or more features and a single label.
+
+
