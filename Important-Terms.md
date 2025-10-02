@@ -44,15 +44,17 @@ Steps in the statistical analysis of terms in a text in the context of natural l
 **Sentiment Analysis in NLP:** Sentiment analysis provides sentiment labels, such as negative, neutral, and positive, based on a confidence score from text analysis. This makes it suitable for understanding user sentiment for product reviews. 
 
 Three values are returned by the language detection feature of the Azure AI Language service in Azure:
-* ISO 6391 Code
-* Language Name
-* Score
+  * ISO 6391 Code
+  * Language Name
+  * Score
 
-The Universal Language Model used by the speech-to-text API is optimized for **conversational** and **dictation scenarios**. The acoustic, language, and pronunciation scenarios require developing your own model.
+* The Universal Language Model used by the speech-to-text API is optimized for **conversational** and **dictation scenarios**. The acoustic, language, and pronunciation scenarios require developing your own model.
 
-Three features are elements of the Azure AI Speech service - **Language Identification**, **Speaker Recognisation**, **Voice Assistants**.
+* Three features are elements of the Azure AI Speech service - **Language Identification**, **Speaker Recognisation**, **Voice Assistants**.
 
 **Model training with a dictionary** feature of the Azure AI Translator service is available only to Custom Translator.
 
+**Azure AI Service for Language:**
+  * 
 
 
